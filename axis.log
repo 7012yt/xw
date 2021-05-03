@@ -1,0 +1,466 @@
+2021-04-20 17:22:39,112 1      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-20 17:22:39,141 30     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:22:39,142 31     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:22:39,142 31     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:22:39,142 31     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:23:11,173 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-20 17:23:11,195 22     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:23:11,195 22     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:23:11,195 22     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:23:11,195 22     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:23:11,240 67     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-20 17:23:11,659 486    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1151704483.
+2021-04-20 17:23:11,659 486    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@44a59da3]
+2021-04-20 17:23:11,664 491    [           main] DEBUG        com.dao.userdao.findall  - ==>  Preparing: select * from user 
+2021-04-20 17:23:11,718 545    [           main] DEBUG        com.dao.userdao.findall  - ==> Parameters: 
+2021-04-20 17:23:11,762 589    [           main] DEBUG        com.dao.userdao.findall  - <==      Total: 6
+2021-04-20 17:23:11,789 616    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@44a59da3]
+2021-04-20 17:23:11,791 618    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@44a59da3]
+2021-04-20 17:23:11,791 618    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1151704483 to pool.
+2021-04-20 17:24:12,835 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-20 17:24:12,867 32     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:24:12,867 32     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:24:12,867 32     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:24:12,867 32     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:24:12,911 76     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-20 17:24:13,155 320    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1151704483.
+2021-04-20 17:24:13,155 320    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@44a59da3]
+2021-04-20 17:24:13,160 325    [           main] DEBUG        com.dao.userdao.findall  - ==>  Preparing: select * from user 
+2021-04-20 17:24:13,199 364    [           main] DEBUG        com.dao.userdao.findall  - ==> Parameters: 
+2021-04-20 17:24:13,241 406    [           main] DEBUG        com.dao.userdao.findall  - <==      Total: 6
+2021-04-20 17:24:13,263 428    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@44a59da3]
+2021-04-20 17:24:13,263 428    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@44a59da3]
+2021-04-20 17:24:13,263 428    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1151704483 to pool.
+2021-04-20 17:30:57,232 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-20 17:30:57,266 34     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:30:57,266 34     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:30:57,267 35     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:30:57,267 35     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:30:57,359 127    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-20 17:30:57,608 376    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 67749199.
+2021-04-20 17:30:57,608 376    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@409c54f]
+2021-04-20 17:30:57,612 380    [           main] DEBUG erdao.findall_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user 
+2021-04-20 17:30:57,648 416    [           main] DEBUG erdao.findall_PageHelper_Count  - ==> Parameters: 
+2021-04-20 17:30:57,738 506    [           main] DEBUG erdao.findall_PageHelper_Count  - <==      Total: 1
+2021-04-20 17:30:57,742 510    [           main] DEBUG dao.userdao.findall_PageHelper  - ==>  Preparing: select * from user limit ?,? 
+2021-04-20 17:30:57,743 511    [           main] DEBUG dao.userdao.findall_PageHelper  - ==> Parameters: 0(Integer), 5(Integer)
+2021-04-20 17:30:57,749 517    [           main] DEBUG dao.userdao.findall_PageHelper  - <==      Total: 5
+2021-04-20 17:30:57,767 535    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@409c54f]
+2021-04-20 17:30:57,768 536    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@409c54f]
+2021-04-20 17:30:57,768 536    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 67749199 to pool.
+2021-04-20 17:38:54,306 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-20 17:38:54,331 25     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:38:54,332 26     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:38:54,332 26     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:38:54,332 26     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:38:54,407 101    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-20 17:38:54,644 338    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1812823171.
+2021-04-20 17:38:54,644 338    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:38:54,649 343    [           main] DEBUG erdao.findall_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user 
+2021-04-20 17:38:54,684 378    [           main] DEBUG erdao.findall_PageHelper_Count  - ==> Parameters: 
+2021-04-20 17:38:54,717 411    [           main] DEBUG erdao.findall_PageHelper_Count  - <==      Total: 1
+2021-04-20 17:38:54,720 414    [           main] DEBUG dao.userdao.findall_PageHelper  - ==>  Preparing: select * from user limit ?,? 
+2021-04-20 17:38:54,721 415    [           main] DEBUG dao.userdao.findall_PageHelper  - ==> Parameters: 2(Integer), 2(Integer)
+2021-04-20 17:38:54,725 419    [           main] DEBUG dao.userdao.findall_PageHelper  - <==      Total: 2
+2021-04-20 17:38:54,744 438    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:38:54,745 439    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:38:54,745 439    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1812823171 to pool.
+2021-04-20 17:39:01,796 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-20 17:39:01,816 20     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:39:01,816 20     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:39:01,816 20     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:39:01,816 20     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:39:01,884 88     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-20 17:39:02,121 325    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1812823171.
+2021-04-20 17:39:02,122 326    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:39:02,127 331    [           main] DEBUG erdao.findall_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user 
+2021-04-20 17:39:02,164 368    [           main] DEBUG erdao.findall_PageHelper_Count  - ==> Parameters: 
+2021-04-20 17:39:02,197 401    [           main] DEBUG erdao.findall_PageHelper_Count  - <==      Total: 1
+2021-04-20 17:39:02,201 405    [           main] DEBUG dao.userdao.findall_PageHelper  - ==>  Preparing: select * from user limit ?,? 
+2021-04-20 17:39:02,202 406    [           main] DEBUG dao.userdao.findall_PageHelper  - ==> Parameters: 2(Integer), 2(Integer)
+2021-04-20 17:39:02,205 409    [           main] DEBUG dao.userdao.findall_PageHelper  - <==      Total: 2
+2021-04-20 17:39:02,225 429    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:39:02,226 430    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:39:02,226 430    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1812823171 to pool.
+2021-04-20 17:39:10,704 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-20 17:39:10,732 28     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:39:10,732 28     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:39:10,732 28     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:39:10,733 29     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-20 17:39:10,806 102    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-20 17:39:11,061 357    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1812823171.
+2021-04-20 17:39:11,061 357    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:39:11,066 362    [           main] DEBUG erdao.findall_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user 
+2021-04-20 17:39:11,108 404    [           main] DEBUG erdao.findall_PageHelper_Count  - ==> Parameters: 
+2021-04-20 17:39:11,138 434    [           main] DEBUG erdao.findall_PageHelper_Count  - <==      Total: 1
+2021-04-20 17:39:11,142 438    [           main] DEBUG dao.userdao.findall_PageHelper  - ==>  Preparing: select * from user limit ?,? 
+2021-04-20 17:39:11,143 439    [           main] DEBUG dao.userdao.findall_PageHelper  - ==> Parameters: 0(Integer), 2(Integer)
+2021-04-20 17:39:11,148 444    [           main] DEBUG dao.userdao.findall_PageHelper  - <==      Total: 2
+2021-04-20 17:39:11,166 462    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:39:11,166 462    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6c0d7c83]
+2021-04-20 17:39:11,166 462    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1812823171 to pool.
+2021-04-29 09:23:05,082 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 09:23:05,120 38     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:23:05,120 38     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:23:05,120 38     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:23:05,121 39     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:23:05,241 159    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 09:23:05,782 700    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 826865256.
+2021-04-29 09:23:05,782 700    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3148f668]
+2021-04-29 09:23:05,789 707    [           main] DEBUG rdao.findById_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user WHERE id = ? 
+2021-04-29 09:23:05,846 764    [           main] DEBUG rdao.findById_PageHelper_Count  - ==> Parameters: 1(Integer)
+2021-04-29 09:23:19,659 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 09:23:19,691 32     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:23:19,691 32     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:23:19,691 32     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:23:19,691 32     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:23:19,806 147    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 09:23:20,088 429    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 826865256.
+2021-04-29 09:23:20,089 430    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3148f668]
+2021-04-29 09:23:20,095 436    [           main] DEBUG rdao.findById_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user WHERE user_id = ? 
+2021-04-29 09:23:20,156 497    [           main] DEBUG rdao.findById_PageHelper_Count  - ==> Parameters: 1(Integer)
+2021-04-29 09:23:20,202 543    [           main] DEBUG rdao.findById_PageHelper_Count  - <==      Total: 1
+2021-04-29 09:23:20,208 549    [           main] DEBUG ao.userdao.findById_PageHelper  - ==>  Preparing: select * from user where user_id = ? limit ?,? 
+2021-04-29 09:23:20,208 549    [           main] DEBUG ao.userdao.findById_PageHelper  - ==> Parameters: 1(Integer), 0(Integer), 2(Integer)
+2021-04-29 09:23:20,212 553    [           main] DEBUG ao.userdao.findById_PageHelper  - <==      Total: 1
+2021-04-29 09:23:20,232 573    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3148f668]
+2021-04-29 09:23:20,232 573    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3148f668]
+2021-04-29 09:23:20,233 574    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 826865256 to pool.
+2021-04-29 09:25:34,060 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 09:25:34,105 45     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:25:34,106 46     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:25:34,106 46     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:25:34,107 47     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 09:25:34,209 149    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 09:25:34,432 372    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1989132530.
+2021-04-29 09:25:34,432 372    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@768fc0f2]
+2021-04-29 09:25:34,438 378    [           main] DEBUG indByIdOrName_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user WHERE user_id = ? OR user_name = ? 
+2021-04-29 09:25:34,493 433    [           main] DEBUG indByIdOrName_PageHelper_Count  - ==> Parameters: 1(Integer), teat1(String)
+2021-04-29 09:25:34,527 467    [           main] DEBUG indByIdOrName_PageHelper_Count  - <==      Total: 1
+2021-04-29 09:25:34,530 470    [           main] DEBUG rdao.findByIdOrName_PageHelper  - ==>  Preparing: select * from user where user_id = ? or user_name=? limit ?,? 
+2021-04-29 09:25:34,531 471    [           main] DEBUG rdao.findByIdOrName_PageHelper  - ==> Parameters: 1(Integer), teat1(String), 0(Integer), 2(Integer)
+2021-04-29 09:25:34,534 474    [           main] DEBUG rdao.findByIdOrName_PageHelper  - <==      Total: 1
+2021-04-29 09:25:34,555 495    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@768fc0f2]
+2021-04-29 09:25:34,556 496    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@768fc0f2]
+2021-04-29 09:25:34,556 496    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1989132530 to pool.
+2021-04-29 10:06:51,912 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:06:51,941 29     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:06:51,941 29     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:06:51,941 29     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:06:51,941 29     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:06:52,035 123    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:06:52,305 393    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1414845278.
+2021-04-29 10:06:52,306 394    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5454d35e]
+2021-04-29 10:06:52,311 399    [           main] DEBUG indByIdOrName_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user WHERE user_id = ? OR user_name = ? 
+2021-04-29 10:06:52,374 462    [           main] DEBUG indByIdOrName_PageHelper_Count  - ==> Parameters: 1(Integer), teat1(String)
+2021-04-29 10:06:52,445 533    [           main] DEBUG indByIdOrName_PageHelper_Count  - <==      Total: 1
+2021-04-29 10:06:52,449 537    [           main] DEBUG rdao.findByIdOrName_PageHelper  - ==>  Preparing: select * from user where user_id = ? or user_name=? limit ?,? 
+2021-04-29 10:06:52,450 538    [           main] DEBUG rdao.findByIdOrName_PageHelper  - ==> Parameters: 1(Integer), teat1(String), 0(Integer), 2(Integer)
+2021-04-29 10:06:52,454 542    [           main] DEBUG rdao.findByIdOrName_PageHelper  - <==      Total: 1
+2021-04-29 10:06:52,456 544    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5454d35e]
+2021-04-29 10:06:52,457 545    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5454d35e]
+2021-04-29 10:06:52,457 545    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1414845278 to pool.
+2021-04-29 10:15:20,238 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:15:20,266 28     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:15:20,266 28     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:15:20,266 28     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:15:20,267 29     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:15:20,326 88     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:15:20,584 346    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 970535245.
+2021-04-29 10:15:20,585 347    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:15:20,589 351    [           main] DEBUG com.dao.userdao.findTotalCount  - ==>  Preparing: select count(*) from user 
+2021-04-29 10:15:20,633 395    [           main] DEBUG com.dao.userdao.findTotalCount  - ==> Parameters: 
+2021-04-29 10:15:20,679 441    [           main] DEBUG com.dao.userdao.findTotalCount  - <==      Total: 1
+2021-04-29 10:18:07,507 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:18:07,534 27     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:18:07,534 27     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:18:07,534 27     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:18:07,534 27     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:18:07,596 89     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:18:07,858 351    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 970535245.
+2021-04-29 10:18:07,858 351    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:18:07,863 356    [           main] DEBUG com.dao.userdao.findTotalCount  - ==>  Preparing: select count(*) from user 
+2021-04-29 10:18:07,913 406    [           main] DEBUG com.dao.userdao.findTotalCount  - ==> Parameters: 
+2021-04-29 10:18:07,955 448    [           main] DEBUG com.dao.userdao.findTotalCount  - <==      Total: 1
+2021-04-29 10:18:07,959 452    [           main] DEBUG        com.dao.userdao.findAll  - ==>  Preparing: select * from user 
+2021-04-29 10:18:07,960 453    [           main] DEBUG        com.dao.userdao.findAll  - ==> Parameters: 
+2021-04-29 10:18:07,962 455    [           main] DEBUG        com.dao.userdao.findAll  - <==      Total: 6
+2021-04-29 10:18:07,963 456    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:18:07,963 456    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:18:07,963 456    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 970535245 to pool.
+2021-04-29 10:19:08,569 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:19:08,593 24     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:08,593 24     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:08,593 24     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:08,593 24     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:08,651 82     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:19:08,921 352    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 970535245.
+2021-04-29 10:19:08,921 352    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:08,926 357    [           main] DEBUG        com.dao.userdao.findAll  - ==>  Preparing: select * from user 
+2021-04-29 10:19:08,975 406    [           main] DEBUG        com.dao.userdao.findAll  - ==> Parameters: 
+2021-04-29 10:19:09,009 440    [           main] DEBUG        com.dao.userdao.findAll  - <==      Total: 6
+2021-04-29 10:19:09,012 443    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:09,013 444    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:09,013 444    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 970535245 to pool.
+2021-04-29 10:19:36,192 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:19:36,216 24     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:36,216 24     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:36,217 25     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:36,217 25     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:36,269 77     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:19:36,525 333    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 970535245.
+2021-04-29 10:19:36,526 334    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:36,533 341    [           main] DEBUG        com.dao.userdao.findAll  - ==>  Preparing: select * from user 
+2021-04-29 10:19:36,596 404    [           main] DEBUG        com.dao.userdao.findAll  - ==> Parameters: 
+2021-04-29 10:19:36,648 456    [           main] DEBUG        com.dao.userdao.findAll  - <==      Total: 6
+2021-04-29 10:19:36,681 489    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:36,682 490    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:36,682 490    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 970535245 to pool.
+2021-04-29 10:19:43,777 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:19:43,811 34     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:43,812 35     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:43,812 35     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:43,812 35     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:19:43,872 95     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:19:44,153 376    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 970535245.
+2021-04-29 10:19:44,153 376    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:44,159 382    [           main] DEBUG        com.dao.userdao.findAll  - ==>  Preparing: select * from user 
+2021-04-29 10:19:44,210 433    [           main] DEBUG        com.dao.userdao.findAll  - ==> Parameters: 
+2021-04-29 10:19:44,244 467    [           main] DEBUG        com.dao.userdao.findAll  - <==      Total: 6
+2021-04-29 10:19:44,268 491    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:44,269 492    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:19:44,269 492    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 970535245 to pool.
+2021-04-29 10:25:01,777 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:25:01,805 28     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:25:01,805 28     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:25:01,806 29     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:25:01,806 29     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:25:01,858 81     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:25:02,138 361    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 970535245.
+2021-04-29 10:25:02,139 362    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:25:02,143 366    [           main] DEBUG        com.dao.userdao.findAll  - ==>  Preparing: select * from user 
+2021-04-29 10:25:02,198 421    [           main] DEBUG        com.dao.userdao.findAll  - ==> Parameters: 
+2021-04-29 10:25:02,261 484    [           main] DEBUG        com.dao.userdao.findAll  - <==      Total: 6
+2021-04-29 10:25:02,264 487    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:25:02,264 487    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:25:02,265 488    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 970535245 to pool.
+2021-04-29 10:25:21,124 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:25:21,154 30     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:25:21,154 30     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:25:21,154 30     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:25:21,154 30     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:25:21,222 98     [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:25:21,490 366    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 970535245.
+2021-04-29 10:25:21,491 367    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:25:21,496 372    [           main] DEBUG        com.dao.userdao.findAll  - ==>  Preparing: select * from user 
+2021-04-29 10:25:21,539 415    [           main] DEBUG        com.dao.userdao.findAll  - ==> Parameters: 
+2021-04-29 10:25:21,581 457    [           main] DEBUG        com.dao.userdao.findAll  - <==      Total: 6
+2021-04-29 10:25:21,584 460    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:25:21,585 461    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39d9314d]
+2021-04-29 10:25:21,585 461    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 970535245 to pool.
+2021-04-29 10:32:34,487 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:32:34,513 26     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:32:34,513 26     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:32:34,513 26     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:32:34,513 26     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:32:34,727 240    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:32:34,947 460    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 351417028.
+2021-04-29 10:32:34,947 460    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@14f232c4]
+2021-04-29 10:32:34,951 464    [           main] DEBUG erdao.findAll_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user 
+2021-04-29 10:32:34,995 508    [           main] DEBUG erdao.findAll_PageHelper_Count  - ==> Parameters: 
+2021-04-29 10:32:35,047 560    [           main] DEBUG erdao.findAll_PageHelper_Count  - <==      Total: 1
+2021-04-29 10:32:35,050 563    [           main] DEBUG dao.userdao.findAll_PageHelper  - ==>  Preparing: select * from user limit ?,? 
+2021-04-29 10:32:35,051 564    [           main] DEBUG dao.userdao.findAll_PageHelper  - ==> Parameters: 0(Integer), 5(Integer)
+2021-04-29 10:32:35,057 570    [           main] DEBUG dao.userdao.findAll_PageHelper  - <==      Total: 5
+2021-04-29 10:32:35,057 570    [           main] DEBUG com.dao.userdao.findTotalCount  - ==>  Preparing: select count(*) from user 
+2021-04-29 10:32:35,057 570    [           main] DEBUG com.dao.userdao.findTotalCount  - ==> Parameters: 
+2021-04-29 10:32:35,059 572    [           main] DEBUG com.dao.userdao.findTotalCount  - <==      Total: 1
+2021-04-29 10:32:35,092 605    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@14f232c4]
+2021-04-29 10:32:35,092 605    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@14f232c4]
+2021-04-29 10:32:35,093 606    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 351417028 to pool.
+2021-04-29 10:48:52,081 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-04-29 10:48:52,118 37     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:48:52,118 37     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:48:52,118 37     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:48:52,118 37     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-04-29 10:48:52,128 47     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2021-04-29 10:48:52,128 47     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2021-04-29 10:48:52,129 48     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2021-04-29 10:48:52,130 49     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-04-29 10:48:52,130 49     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-04-29 10:48:52,132 51     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao
+2021-04-29 10:48:52,133 52     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao
+2021-04-29 10:48:52,229 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: userdao.class
+2021-04-29 10:48:52,230 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/XW1.0/target/classes/com/dao
+2021-04-29 10:48:52,230 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-04-29 10:48:52,230 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-04-29 10:48:52,231 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   7    findAll ()Ljava/util/List; 	Signature %()Ljava/util/List<Lcom/domain/User;>; RuntimeVisibleAnnotations &Lorg/apache/ibatis/annotations/Select; value select * from user findById %(Ljava/lang/Integer;)Ljava/util/List; 8(Ljava/lang/Integer;)Ljava/util/List<Lcom/domain/User;>; (select * from user where user_id = #{id} findByIdOrName 7(Ljava/lang/Integer;Ljava/lang/String;)Ljava/util/List; J(Ljava/lang/Integer;Ljava/lang/String;)Ljava/util/List<Lcom/domain/User;>; =select * from user where user_id = #{id} or user_name=#{name} "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; id name findTotalCount ()I select count(*) from user 
+2021-04-29 10:48:52,236 155    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.dao.userdao matches criteria [is assignable to Object]
+2021-04-29 10:48:52,301 220    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-04-29 10:48:52,676 595    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 999230073.
+2021-04-29 10:48:52,676 595    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3b8f0a79]
+2021-04-29 10:48:52,682 601    [           main] DEBUG        com.dao.userdao.findAll  - ==>  Preparing: select * from user 
+2021-04-29 10:48:52,735 654    [           main] DEBUG        com.dao.userdao.findAll  - ==> Parameters: 
+2021-04-29 10:48:52,791 710    [           main] DEBUG        com.dao.userdao.findAll  - <==      Total: 6
+2021-04-29 10:48:52,794 713    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3b8f0a79]
+2021-04-29 10:48:52,795 714    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3b8f0a79]
+2021-04-29 10:48:52,796 715    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 999230073 to pool.
+2021-05-03 16:08:07,246 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-05-03 16:08:07,297 51     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:08:07,297 51     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:08:07,297 51     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:08:07,297 51     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:08:07,330 84     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2021-05-03 16:08:07,330 84     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2021-05-03 16:08:07,330 84     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2021-05-03 16:08:07,331 85     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-05-03 16:08:07,331 85     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-05-03 16:08:07,333 87     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:08:07,333 87     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:08:07,375 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: userdao.class
+2021-05-03 16:08:07,377 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:08:07,377 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 16:08:07,377 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 16:08:07,378 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   7 "   ! findAll ()Ljava/util/List; 	Signature %()Ljava/util/List<Lcom/domain/User;>; RuntimeVisibleAnnotations &Lorg/apache/ibatis/annotations/Select; value select * from user findById %(Ljava/lang/Integer;)Ljava/util/List; 8(Ljava/lang/Integer;)Ljava/util/List<Lcom/domain/User;>; (select * from user where user_id = #{id} 
+2021-05-03 16:08:07,381 135    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.dao.userdao matches criteria [is assignable to Object]
+2021-05-03 16:08:07,534 288    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-05-03 16:08:07,930 684    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1312963234.
+2021-05-03 16:08:07,931 685    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4e423aa2]
+2021-05-03 16:08:07,935 689    [           main] DEBUG com.dao.userdao.findTotalCount  - ==>  Preparing: select count(*) from user 
+2021-05-03 16:08:07,968 722    [           main] DEBUG com.dao.userdao.findTotalCount  - ==> Parameters: 
+2021-05-03 16:08:08,033 787    [           main] DEBUG com.dao.userdao.findTotalCount  - <==      Total: 1
+2021-05-03 16:08:08,066 820    [           main] DEBUG ao.findByName_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user WHERE user_name = ? 
+2021-05-03 16:08:08,067 821    [           main] DEBUG ao.findByName_PageHelper_Count  - ==> Parameters: null
+2021-05-03 16:08:08,074 828    [           main] DEBUG ao.findByName_PageHelper_Count  - <==      Total: 1
+2021-05-03 16:08:08,075 829    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4e423aa2]
+2021-05-03 16:08:08,076 830    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4e423aa2]
+2021-05-03 16:08:08,076 830    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1312963234 to pool.
+2021-05-03 16:09:03,244 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-05-03 16:09:03,278 34     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:09:03,278 34     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:09:03,278 34     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:09:03,278 34     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:09:03,285 41     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2021-05-03 16:09:03,285 41     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2021-05-03 16:09:03,285 41     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2021-05-03 16:09:03,286 42     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-05-03 16:09:03,287 43     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-05-03 16:09:03,288 44     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:09:03,288 44     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:09:03,341 97     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: userdao.class
+2021-05-03 16:09:03,343 99     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:09:03,343 99     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 16:09:03,343 99     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 16:09:03,344 100    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   7 "   ! findAll ()Ljava/util/List; 	Signature %()Ljava/util/List<Lcom/domain/User;>; RuntimeVisibleAnnotations &Lorg/apache/ibatis/annotations/Select; value select * from user findById %(Ljava/lang/Integer;)Ljava/util/List; 8(Ljava/lang/Integer;)Ljava/util/List<Lcom/domain/User;>; (select * from user where user_id = #{id} 
+2021-05-03 16:09:03,350 106    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.dao.userdao matches criteria [is assignable to Object]
+2021-05-03 16:09:03,413 169    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-05-03 16:09:03,646 402    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1312963234.
+2021-05-03 16:09:03,646 402    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4e423aa2]
+2021-05-03 16:09:03,651 407    [           main] DEBUG com.dao.userdao.findTotalCount  - ==>  Preparing: select count(*) from user 
+2021-05-03 16:09:03,703 459    [           main] DEBUG com.dao.userdao.findTotalCount  - ==> Parameters: 
+2021-05-03 16:09:03,746 502    [           main] DEBUG com.dao.userdao.findTotalCount  - <==      Total: 1
+2021-05-03 16:09:03,780 536    [           main] DEBUG ao.findByName_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user WHERE user_name = ? 
+2021-05-03 16:09:03,782 538    [           main] DEBUG ao.findByName_PageHelper_Count  - ==> Parameters: null
+2021-05-03 16:09:03,784 540    [           main] DEBUG ao.findByName_PageHelper_Count  - <==      Total: 1
+2021-05-03 16:09:03,785 541    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4e423aa2]
+2021-05-03 16:09:03,785 541    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4e423aa2]
+2021-05-03 16:09:03,786 542    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1312963234 to pool.
+2021-05-03 16:14:44,151 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-05-03 16:14:44,317 166    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:14:44,317 166    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:14:44,317 166    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:14:44,318 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:14:44,323 172    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2021-05-03 16:14:44,323 172    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2021-05-03 16:14:44,324 173    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2021-05-03 16:14:44,325 174    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-05-03 16:14:44,325 174    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-05-03 16:14:44,327 176    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:14:44,327 176    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:14:44,380 229    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: userdao.class
+2021-05-03 16:14:44,381 230    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:14:44,382 231    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 16:14:44,382 231    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 16:14:44,384 233    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   7 & $ % findAll ()Ljava/util/List; 	Signature %()Ljava/util/List<Lcom/domain/User;>; RuntimeVisibleAnnotations &Lorg/apache/ibatis/annotations/Select; value select * from user findById %(Ljava/lang/Integer;)Ljava/util/List; 8(Ljava/lang/Integer;)Ljava/util/List<Lcom/domain/User;>; (select * from user where user_id = #{id} 
+2021-05-03 16:14:44,390 239    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.dao.userdao matches criteria [is assignable to Object]
+2021-05-03 16:14:44,523 372    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-05-03 16:14:45,027 876    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 46453164.
+2021-05-03 16:14:45,028 877    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2c4d1ac]
+2021-05-03 16:14:45,035 884    [           main] DEBUG com.dao.userdao.findTotalCount  - ==>  Preparing: select count(*) from user 
+2021-05-03 16:14:45,094 943    [           main] DEBUG com.dao.userdao.findTotalCount  - ==> Parameters: 
+2021-05-03 16:14:45,153 1002   [           main] DEBUG com.dao.userdao.findTotalCount  - <==      Total: 1
+2021-05-03 16:14:45,208 1057   [           main] DEBUG ao.findByName_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user 
+2021-05-03 16:14:45,209 1058   [           main] DEBUG ao.findByName_PageHelper_Count  - ==> Parameters: 
+2021-05-03 16:14:45,211 1060   [           main] DEBUG ao.findByName_PageHelper_Count  - <==      Total: 1
+2021-05-03 16:14:45,215 1064   [           main] DEBUG .userdao.findByName_PageHelper  - ==>  Preparing: select * from user limit ?,? 
+2021-05-03 16:14:45,216 1065   [           main] DEBUG .userdao.findByName_PageHelper  - ==> Parameters: 0(Integer), 5(Integer)
+2021-05-03 16:14:45,228 1077   [           main] DEBUG .userdao.findByName_PageHelper  - <==      Total: 5
+2021-05-03 16:14:45,229 1078   [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2c4d1ac]
+2021-05-03 16:14:45,230 1079   [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2c4d1ac]
+2021-05-03 16:14:45,230 1079   [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 46453164 to pool.
+2021-05-03 16:15:52,735 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-05-03 16:15:52,758 23     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:15:52,758 23     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:15:52,758 23     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:15:52,758 23     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 16:15:52,763 28     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2021-05-03 16:15:52,763 28     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2021-05-03 16:15:52,764 29     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2021-05-03 16:15:52,765 30     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-05-03 16:15:52,765 30     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-05-03 16:15:52,767 32     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:15:52,767 32     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:15:52,806 71     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: userdao.class
+2021-05-03 16:15:52,807 72     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 16:15:52,808 73     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 16:15:52,808 73     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 16:15:52,809 74     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   7 & $ % findAll ()Ljava/util/List; 	Signature %()Ljava/util/List<Lcom/domain/User;>; RuntimeVisibleAnnotations &Lorg/apache/ibatis/annotations/Select; value select * from user findById %(Ljava/lang/Integer;)Ljava/util/List; 8(Ljava/lang/Integer;)Ljava/util/List<Lcom/domain/User;>; (select * from user where user_id = #{id} 
+2021-05-03 16:15:52,813 78     [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.dao.userdao matches criteria [is assignable to Object]
+2021-05-03 16:15:52,949 214    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-05-03 16:15:53,193 458    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 86558824.
+2021-05-03 16:15:53,194 459    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@528c868]
+2021-05-03 16:15:53,200 465    [           main] DEBUG com.dao.userdao.findTotalCount  - ==>  Preparing: select count(*) from user 
+2021-05-03 16:15:53,238 503    [           main] DEBUG com.dao.userdao.findTotalCount  - ==> Parameters: 
+2021-05-03 16:15:53,281 546    [           main] DEBUG com.dao.userdao.findTotalCount  - <==      Total: 1
+2021-05-03 16:15:53,308 573    [           main] DEBUG ao.findByName_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user 
+2021-05-03 16:15:53,309 574    [           main] DEBUG ao.findByName_PageHelper_Count  - ==> Parameters: 
+2021-05-03 16:15:53,311 576    [           main] DEBUG ao.findByName_PageHelper_Count  - <==      Total: 1
+2021-05-03 16:15:53,313 578    [           main] DEBUG .userdao.findByName_PageHelper  - ==>  Preparing: select * from user limit ?,? 
+2021-05-03 16:15:53,314 579    [           main] DEBUG .userdao.findByName_PageHelper  - ==> Parameters: 0(Integer), 5(Integer)
+2021-05-03 16:15:53,319 584    [           main] DEBUG .userdao.findByName_PageHelper  - <==      Total: 5
+2021-05-03 16:15:53,319 584    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@528c868]
+2021-05-03 16:15:53,320 585    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@528c868]
+2021-05-03 16:15:53,320 585    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 86558824 to pool.
+2021-05-03 19:32:03,447 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2021-05-03 19:32:03,487 40     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 19:32:03,487 40     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 19:32:03,487 40     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 19:32:03,488 41     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-05-03 19:32:03,495 48     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2021-05-03 19:32:03,495 48     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2021-05-03 19:32:03,496 49     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2021-05-03 19:32:03,497 50     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-05-03 19:32:03,498 51     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-05-03 19:32:03,500 53     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 19:32:03,501 54     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 19:32:03,561 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: userdao.class
+2021-05-03 19:32:03,562 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/XW1.0/target/classes/com/dao
+2021-05-03 19:32:03,562 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 19:32:03,562 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/XW1.0/target/classes/com/dao/userdao.class
+2021-05-03 19:32:03,563 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   7 ) ' ( findAll ()Ljava/util/List; 	Signature %()Ljava/util/List<Lcom/domain/User;>; RuntimeVisibleAnnotations &Lorg/apache/ibatis/annotations/Select; value select * from user findById %(Ljava/lang/Integer;)Ljava/util/List; 8(Ljava/lang/Integer;)Ljava/util/List<Lcom/domain/User;>; (select * from user where user_id = #{id} 
+2021-05-03 19:32:03,567 120    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.dao.userdao matches criteria [is assignable to Object]
+2021-05-03 19:32:03,703 256    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-05-03 19:32:04,017 570    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1234586997.
+2021-05-03 19:32:04,018 571    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@49964d75]
+2021-05-03 19:32:04,024 577    [           main] DEBUG com.dao.userdao.findTotalCount  - ==>  Preparing: select count(*) from user 
+2021-05-03 19:32:04,084 637    [           main] DEBUG com.dao.userdao.findTotalCount  - ==> Parameters: 
+2021-05-03 19:32:04,125 678    [           main] DEBUG com.dao.userdao.findTotalCount  - <==      Total: 1
+2021-05-03 19:32:04,149 702    [           main] DEBUG ao.findByName_PageHelper_Count  - ==>  Preparing: SELECT count(*) FROM user 
+2021-05-03 19:32:04,151 704    [           main] DEBUG ao.findByName_PageHelper_Count  - ==> Parameters: 
+2021-05-03 19:32:04,153 706    [           main] DEBUG ao.findByName_PageHelper_Count  - <==      Total: 1
+2021-05-03 19:32:04,154 707    [           main] DEBUG .userdao.findByName_PageHelper  - ==>  Preparing: select * from user limit ?,? 
+2021-05-03 19:32:04,155 708    [           main] DEBUG .userdao.findByName_PageHelper  - ==> Parameters: 0(Integer), 5(Integer)
+2021-05-03 19:32:04,158 711    [           main] DEBUG .userdao.findByName_PageHelper  - <==      Total: 5
+2021-05-03 19:32:04,159 712    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@49964d75]
+2021-05-03 19:32:04,159 712    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@49964d75]
+2021-05-03 19:32:04,160 713    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1234586997 to pool.
